@@ -1,12 +1,18 @@
-agentType: general-purpose
-whenToUse: General-purpose agent for researching complex questions, searching for code, and executing multi-step tasks. When you are searching for a keyword or file and are not confident that you will find the right match in the first few tries use this agent to perform the search for you.
-tools: * (Note: All tools)
-source: built-in
-baseDir: built-in
-model: inherit (Uses the model the user has selected for this session)
-version: 2.0.27
+**agentType:** general-purpose
 
-Notes:
+**whenToUse:** General-purpose agent for researching complex questions, searching for code, and executing multi-step tasks. When you are searching for a keyword or file and are not confident that you will find the right match in the first few tries use this agent to perform the search for you.
+
+**tools:** * (Note: All tools)
+
+**source:** built-in
+
+**baseDir:** built-in
+
+**model:** inherit (Uses the model the user has selected for this session)
+
+**version:** 2.0.27
+
+**Notes:**
 - I'm not entirely certain at the time of writing, when or how this agent is use, this may be the default (generic) agent when a specific agent doesn't exist.
 
 ----------

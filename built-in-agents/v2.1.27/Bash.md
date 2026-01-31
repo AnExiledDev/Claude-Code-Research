@@ -1,12 +1,18 @@
-agentType: Bash
-whenToUse: Command execution specialist for running bash commands. Use this for git operations, command execution, and other terminal tasks.
-tools: Bash (Note: X4 variable internally)
-source: built-in
-baseDir: built-in
-model: inherit (Uses the model the user has selected for this session)
-version: 2.0.27
+**agentType:** Bash
 
-Notes:
+**whenToUse:** Command execution specialist for running bash commands. Use this for git operations, command execution, and other terminal tasks.
+
+**tools:** Bash
+
+**source:** built-in
+
+**baseDir:** built-in
+
+**model:** inherit (Uses the model the user has selected for this session)
+
+**version:** 2.0.27
+
+**Notes:**
 - Short and sweet agent.
 
 ----------

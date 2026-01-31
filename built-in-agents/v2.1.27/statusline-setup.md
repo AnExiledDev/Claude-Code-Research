@@ -1,14 +1,21 @@
-agentType: statusline-setup
-whenToUse: Use this agent to configure the user's Claude Code status line setting.
-tools: Read, Edit
-source: built-in
-baseDir: built-in
-model: sonnet
-color: orange
-version: 2.0.27
+**agentType:** statusline-setup
 
-Notes:
-- 
+**whenToUse:** Use this agent to configure the user's Claude Code status line setting.
+
+**tools:** Read, Edit
+
+**source:** built-in
+
+**baseDir:** built-in
+
+**model:** sonnet
+
+**color:** orange
+
+**version:** 2.0.27
+
+**Notes:**
+- (none)
 
 ----------
 
